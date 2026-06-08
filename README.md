@@ -28,8 +28,6 @@ A content-based Movie Recommendation System that suggests movies similar to the 
 For every recommended movie, users can explore detailed information including the movie overview, rating, genres, release date, and runtime. The application also displays the top cast members and provides a direct trailer link, allowing users to learn more about the movie before deciding what to watch.
 
 
-
-
 <img width="1865" height="813" alt="image" src="https://github.com/user-attachments/assets/2645f148-d53d-41f9-88dc-fa851d103826" />
 
 
@@ -127,7 +125,7 @@ The application will open in your browser automatically.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome.
+Contributions, issues and feature requests are welcome.
 
 ## 📜 License
 
@@ -135,5 +133,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed with Python and Machine Learning for movie recommendation and discovery.
+Gaurav Kumar ||  gauravkr.pro@gmail.com
+
 
