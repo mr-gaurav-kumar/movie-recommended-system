@@ -133,6 +133,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Gaurav Kumar ||  gauravkr.pro@gmail.com
+Gaurav Kumar ||  gauravkr.pro@gmail.com  || https://www.linkedin.com/in/gaurav-k-sinha/
 
 
