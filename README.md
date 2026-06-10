@@ -33,7 +33,7 @@ For every recommended movie, users can explore detailed information including th
 
 <img width="1865" height="813" alt="image" src="https://github.com/user-attachments/assets/2645f148-d53d-41f9-88dc-fa851d103826" />
 
-
+---
 
 ## 🛠️ Tech Stack
 
