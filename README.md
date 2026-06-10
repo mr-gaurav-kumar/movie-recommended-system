@@ -4,11 +4,11 @@ A content-based Movie Recommendation System built with Python, Streamlit, and Ma
 
 # 🎬 Movie Recommendation System
 ---
-
 A content-based Movie Recommendation System that suggests movies similar to the one selected by the user. The project uses machine learning and natural language processing techniques to analyze movie metadata such as genres, keywords, cast, crew, and overview to generate accurate recommendations.
+---
 
 <img width="1896" height="774" alt="image" src="https://github.com/user-attachments/assets/2171a7dc-bc7c-4d28-bd88-5eb04d68852b" />
-
+---
 
 ## 🚀 Features
 
