@@ -45,6 +45,8 @@ For every recommended movie, users can explore detailed information including th
 * NLTK
 * Pickle
 
+  ---
+
 ## 📂 Project Structure
 
 ```text
